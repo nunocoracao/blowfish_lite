@@ -1,14 +1,14 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
+languageCode = "pt-PT"
+languageName = "Portuguese"
+displayName = "PT"
+isoCode = "pt-PT"
+weight = 2
 rtl = false
-contentDir = 'content/en'
+contentDir = 'content/pt'
 
 title = "Gray Blowfish"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "O meu website awesome"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Gray Blowfish"
   image = "img/avatar.png"
-  headline = "This is my very simple profile website with my links"
+  headline = "Um perfil simples com os meus links"
   bio = "A little bit about you"
    links = [
      { link = "https://nunocoracao.github.io/blowfish/" },
