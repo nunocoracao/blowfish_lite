@@ -1,15 +1,17 @@
 languageCode = "pt-PT"
 languageName = "Portuguese"
-displayName = "PT"
-isoCode = "pt-PT"
 weight = 2
-rtl = false
+title = "Gray Blowfish"
 contentDir = 'content/pt'
 
-title = "Gray Blowfish"
-# logo = "img/logo.png"
-description = "O meu website awesome"
-# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  displayName = "PT"
+  isoCode = "pt-PT"
+  rtl = false
+  # logo = "img/logo.png"
+  description = "O meu website awesome"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
