@@ -14,7 +14,7 @@ contentDir = 'content/en'
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Gray Blowfish"
   image = "img/avatar.png"
   headline = "This is my very simple profile website with my links"

@@ -15,7 +15,7 @@ contentDir = 'content/pt'
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Gray Blowfish"
   image = "img/avatar.png"
   headline = "Um perfil simples com os meus links"
