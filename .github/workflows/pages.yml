@@ -57,6 +57,12 @@ jobs:
         run: |
           hugo --minify -d ./public --baseURL https://nunocoracao.github.io/blowfish_lite/
 
+      - name: Upload site as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: hugo-site
+          path: ./public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
